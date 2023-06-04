@@ -1,0 +1,16 @@
+img{
+    height:150px;
+    width:150px;
+    padding:0px;
+    border-top-left-radius:50%;
+    border-top-right-radius:50%;
+}
+#images{
+    height:500px;
+    width:1500px;
+    border:5px solid black;
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+
+}
